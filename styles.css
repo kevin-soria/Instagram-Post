@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+.project {
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.left {
+    display: inline-block;
+}
+.center{
+    display: inline-block;
+}
+.right{
+    display: inline-block;
+    float: right;
+}
+.mainicons{
+    width: 400px; 
+}
+.icons1{
+    display: inline-block;
+}
+.icons2{
+    display: inline-block;
+    float: right;
+}
+.im{
+    margin: 10px;
+}
+.mainDiv img{
+
+    width:100%
+}
+.igtext{
+    padding: 10px
+}
